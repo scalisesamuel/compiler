@@ -1,0 +1,9 @@
+void
+var x : 5
+var y : 9
+start
+out [ 1 ] .
+scan z .
+if ( ( x - 2 ) / 3 < = z ) let x = 8 .
+$loop ( x > = y ) z + 1$
+stop

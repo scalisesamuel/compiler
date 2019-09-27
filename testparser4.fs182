@@ -1,0 +1,6 @@
+void
+var x : 5
+var y : 9
+start
+loop ( x / 2 > = y ) let x = 2 .
+stop

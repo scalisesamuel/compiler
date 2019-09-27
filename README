@@ -1,0 +1,34 @@
+P3: semantics
+----------------------
+Global only!
+
+Files:
+token.h
+scanner.h
+parser.h
+nodet.h
+testtree.h
+scanner.cpp
+parser.cpp
+testtree.cpp
+nodet.cpp
+makefile
+
+To Run:
+use make to create the executable
+then type ./statSem [filename] 
+
+Additional Files:
+testparser.fs182.fs182
+testparser2.182
+testparser3.182
+testparser4.182
+testparserf.fs182
+testsem.fs182
+testsem1.fs182
+testsem2.fs182
+testsem3.fs182
+These are simple files to test the program.
+
+Problems:
+None from my testing.

@@ -1,0 +1,6 @@
+void
+var x : 3
+var y : 2
+start
+let x = 5 .
+stop

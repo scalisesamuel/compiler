@@ -1,0 +1,6 @@
+void
+var x : 17
+var y : 2
+start
+out [ 1 ] .
+stop
